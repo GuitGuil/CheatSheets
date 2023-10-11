@@ -1,0 +1,62 @@
+1. Krisp : Supprime les voix de fond, les bruits et l'écho lors des appels.
+Lien : https://krisp.ai/
+
+2. Beatoven : Crée de la musique unique libre de droits.
+Lien : https://www.beatoven.ai/
+
+3. Cleanvoice : Supprime les sons parasites, le bégaiement et les sons de la bouche de vos podcasts.
+Lien : https://cleanvoice.ai/
+
+4. Podcastle : Permet d'enregistrer des podcasts de qualité studio, directement depuis un simple ordinateur.
+Lien : https://podcastle.ai/
+
+5. Flair : Génère des shooting photos de vos produits.
+Lien : https://flair.ai/
+
+6. Illustroke : Crée des images vectorielles à partir de prompts.
+Lien : https://illustroke.com/
+
+7. Patterned : Génère des motifs libres de droits.
+Lien : https://www.patterned.ai/
+
+8. Stockimg : Une autre IA de génération d'image.
+Lien : https://stockimg.ai/
+
+9. Copy : Génère du contenu et évite le syndrome de la page blanche.
+Lien : https://www.copy.ai/
+
+10. CopyMonkey : Facilite la rédaction de fiches produits sur Amazon.
+Lien: http://copymonkey.ai/
+
+11. Ocoya : Facilite la création et la programmation du contenu sur les réseaux sociaux.
+Lien : https://www.ocoya.com/
+
+12. Unbounce : Génère des landings pages et des emails.
+Lien : https://unbounce.com/
+
+13. Vidyo : Génère des capsules vidéos pour les réseaux sociaux à partir de vidéos plus longues.
+Lien : https://vidyo.ai/
+
+14. Quickchat : Les chatbots qui parlent comme des humains pour la relation client.
+Lien : https://www.quickchat.ai/
+
+15. Puzzle : Crée une base de connaissances ou un glossaire à partir de documents.
+Lien : https://www.puzzlelabs.ai/
+
+16. Soundraw : Génère des musiques d'ambiances.
+Lien : https://soundraw.io/
+
+17. Cleanup.picture : Supprime les objets, les défaut, les personnes ou les textes de vos images.
+Lien : https://cleanup.pictures/
+
+18. Looka : Génère des noms de marques et des logos.
+Lien : https://looka.com/
+
+19. Synthesia : Facilite la création de vidéos de formation en tapant simplement du texte.
+Lien : https://www.synthesia.io/
+
+20. Otter : Enregistre les réunions et prends des notes en temps réel.
+Lien : https://otter.ai/
+
+21. Thundercontent : Génère tout types de contenus.
+Lien : https://lnkd.in/ejYYuSyD
